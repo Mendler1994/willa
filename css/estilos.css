@@ -331,6 +331,10 @@ footer{
         justify-content: space-evenly;
     }
 
+    .social-media-icon{
+        margin-left: 0;
+    }
+
     .social-media i{
         margin-left: 0;
     }
@@ -345,6 +349,37 @@ footer{
 /* Adaptar pantalla a los 500px*/
 /* Minuto 50:37 del video*/
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 500px){
+    .menu-navegacion{
+        width: 65vw;
+    }
 
+    .hamburguer{
+        top: 20px;
+        right: 20px;
+    }
+
+    .titulo{
+        font-size: 30px;
+    }
+
+    .subtutulo{
+        font-size: 30px;
+    }
+
+    .agregar-imagen {
+        width: 95%;
+    }
+
+    .img-galeria{
+        width: 95%;
+    }
+
+    .social-media{
+        width: 100%;
+    }
+
+    .contact-us{
+        width: 90%;
+    }
 }
