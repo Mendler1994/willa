@@ -22,7 +22,7 @@ body{
 
 .header{
     height: 100vh;
-    background-image: linear-gradient(to top, rgba(251, 194, 235, 0.4) 0%, rgba(166, 192, 238, 0.4) 100%), url(../img/woman.jpg);
+    background-image: linear-gradient(to top, rgba(251, 194, 235, 0.4) 0%, rgba(166, 192, 238, 0.4) 100%), url(../img/pratiksha-mohanty-hDTpVVEm6wg-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
