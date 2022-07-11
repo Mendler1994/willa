@@ -1,3 +1,7 @@
+//    TUTORIAL: https://www.youtube.com/watch?v=ivyIqmczxHU&ab_channel=AlexCGDesign
+//    Dejo el video en el minuto 54:49
+//    Ver menu.js
+
 const imagenes = document.querySelector('.img-galeria');
 const imagenesLight = document.querySelector('.agregar-imagen');
 const contenedorLight = document.querySelector('.imagen-light');
